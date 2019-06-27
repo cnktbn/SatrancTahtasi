@@ -1,0 +1,29 @@
+C:\Users\bilge.adam\Documents\Visual Studio 2015\Projects\ERP102AKSAM\CenkBahçeliler\CenkBahçeliler\bin\Debug\CenkBahçeliler.exe.config
+C:\Users\bilge.adam\Documents\Visual Studio 2015\Projects\ERP102AKSAM\CenkBahçeliler\CenkBahçeliler\bin\Debug\CenkBahçeliler.exe
+C:\Users\bilge.adam\Documents\Visual Studio 2015\Projects\ERP102AKSAM\CenkBahçeliler\CenkBahçeliler\bin\Debug\CenkBahçeliler.pdb
+C:\Users\bilge.adam\Documents\Visual Studio 2015\Projects\ERP102AKSAM\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.csprojResolveAssemblyReference.cache
+C:\Users\bilge.adam\Documents\Visual Studio 2015\Projects\ERP102AKSAM\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.Form1.resources
+C:\Users\bilge.adam\Documents\Visual Studio 2015\Projects\ERP102AKSAM\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.Properties.Resources.resources
+C:\Users\bilge.adam\Documents\Visual Studio 2015\Projects\ERP102AKSAM\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.csproj.GenerateResource.Cache
+C:\Users\bilge.adam\Documents\Visual Studio 2015\Projects\ERP102AKSAM\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.exe
+C:\Users\bilge.adam\Documents\Visual Studio 2015\Projects\ERP102AKSAM\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.pdb
+C:\Users\cnk\Desktop\CenkBahçeliler\CenkBahçeliler\bin\Debug\CenkBahçeliler.exe.config
+C:\Users\cnk\Desktop\CenkBahçeliler\CenkBahçeliler\bin\Debug\CenkBahçeliler.exe
+C:\Users\cnk\Desktop\CenkBahçeliler\CenkBahçeliler\bin\Debug\CenkBahçeliler.pdb
+C:\Users\cnk\Desktop\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.csprojAssemblyReference.cache
+C:\Users\cnk\Desktop\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.Form1.resources
+C:\Users\cnk\Desktop\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.Properties.Resources.resources
+C:\Users\cnk\Desktop\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.csproj.GenerateResource.cache
+C:\Users\cnk\Desktop\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.csproj.CoreCompileInputs.cache
+C:\Users\cnk\Desktop\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.exe
+C:\Users\cnk\Desktop\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.pdb
+C:\Users\cenk\Desktop\CenkBahçeliler\CenkBahçeliler\bin\Debug\CenkBahçeliler.exe.config
+C:\Users\cenk\Desktop\CenkBahçeliler\CenkBahçeliler\bin\Debug\CenkBahçeliler.exe
+C:\Users\cenk\Desktop\CenkBahçeliler\CenkBahçeliler\bin\Debug\CenkBahçeliler.pdb
+C:\Users\cenk\Desktop\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.csprojAssemblyReference.cache
+C:\Users\cenk\Desktop\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.Form1.resources
+C:\Users\cenk\Desktop\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.Properties.Resources.resources
+C:\Users\cenk\Desktop\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.csproj.GenerateResource.cache
+C:\Users\cenk\Desktop\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.csproj.CoreCompileInputs.cache
+C:\Users\cenk\Desktop\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.exe
+C:\Users\cenk\Desktop\CenkBahçeliler\CenkBahçeliler\obj\Debug\CenkBahçeliler.pdb
